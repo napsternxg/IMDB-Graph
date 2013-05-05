@@ -35,6 +35,8 @@ with open("../Data/tutorial/tutorial/imdb_cast.json") as movie_data_json:
 with open("imdb250.gml", "w") as imdb_gml:
 	imdb_gml.write('graph [\n')
 	imdb_gml.write('\tcomment "This is the imdb top 250 movie actors graph."\n')
+	nodes = 0
+	tot_edges = 0
 	for actor in actors:
 		print actors[actor]
 		imdb_gml.write('\tnode [\n')
@@ -44,13 +46,14 @@ with open("imdb250.gml", "w") as imdb_gml:
 		imdb_gml.write('\t]\n')
 		imdb_gml.write('\n')
 		print str(actors[actor]["id"]) + " -> "+ actors[actor]["name"]
+		nodes += 1
 
 	for key in edges:
 		source = str(actors[key]["id"])
 		for k in edges[key]:
 			if k == key:
 				break
-			if edges[key][k] == 0:
+			if edges[key][k] < 2:
 				break
 			target = str(actors[k]["id"])
 			imdb_gml.write('\tedge [\n')
@@ -61,7 +64,10 @@ with open("imdb250.gml", "w") as imdb_gml:
 			imdb_gml.write('\n')
 
 			print "Edge between " + actors[key]["name"] + " to " + actors[k]["name"]
+			tot_edges += 1
 	
 	imdb_gml.write(']')
 
 	print "File imdb250.gml created. \n"
+	print "Total Nodes: " + str(nodes)
+	print "Total Edges: " + str(tot_edges)

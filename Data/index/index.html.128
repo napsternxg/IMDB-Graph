@@ -1,0 +1,3978 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <script type="text/javascript">
+            var ue_sid = "000-0000000-0000000"; var ue_id = "17VVHHS46A3YZEGFT8Z6";
+        </script>
+ 
+<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/imdb/js/collections/csmHeadOpenPreInject-1593619692._V371171287_.js"></script>
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Fargo (1996) - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/title/tt0116282/" />
+            <meta property="og:url" content="http://www.imdb.com/title/tt0116282/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V397576410_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._V397576415_.ico" />
+        <link rel="apple-touch-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/apple-touch-icon-3173846443._V397576421_.png" />
+        <link rel="search" type="application/opensearchdescription+xml" href="http://z-ecx.images-amazon.com/images/G/01/imdb/images/imdbsearch-3349468880._V398722001_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        
+            <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_SX214_CR0,0,214,317_.jpg">
+            <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_SX214_CR0,0,214,317_.jpg" />
+        
+            <meta property='og:type' content="video.movie" />
+        <meta property='fb:app_id' content='115109575169727' />
+        <meta property='og:title' content="Fargo (1996)" />
+        <meta property='og:site_name' content='IMDb' />
+        <meta name="title" content="Fargo (1996) - IMDb" />
+            <meta name="description" content="Directed by Joel Coen.  With William H. Macy, Steve Buscemi, Peter Stormare, Frances McDormand. Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson." />
+            <meta property="og:description" content="Directed by Joel Coen.  With William H. Macy, Steve Buscemi, Peter Stormare, Frances McDormand. Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson." />
+            <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+            <meta name="request_id" content="17VVHHS46A3YZEGFT8Z6" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1d-i-4c7ade3c.us-east-1 -->
+<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/title-1563121485._V371069279_.css" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        <!-- begin ads header -->
+<script>window.ads_js_start = new Date().getTime();</script>
+<script src="http://z-ecx.images-amazon.com/images/G/01/imdbads/js/collections/ads-3989819072._V370853812_.js"></script>
+<script>generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);</script>
+<script>
+(function(url,itemName,h,w) {
+if (flashAdUtils.canPlayFlash(9)) {
+var flashTags = flashAdUtils.makeFlashAd({ id:itemName, src:url, height:h, width:w });
+document.write('<div style="position:absolute;visibility:hidden;">' + flashTags + '</div>');
+}
+})("http://ia.media-imdb.com/images/M/MV5BMTMzMzgxNzM2M15BMl5Bc3dmXkFtZTcwNzM0MTkxNw@@._V1_.swf","baker",1,1);
+// Stuff that we need to try a little harder on still...
+// TODO: weblab stuff
+generic.monitoring.set_forester_info("title");
+generic.monitoring.set_twilight_info(
+"title",
+"IN",
+"d2693ee935c7615c6ed77724c2a8cca9021adab3",
+"2013-04-22T18%3A52%3A58GMT",
+"http://s.media-imdb.com/twilight/?");
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 43622;
+generic.days_to_midnight = 0.5048842430114746;
+custom.full_page.data_url = "http://z-ecx.images-amazon.com/images/G/01/imdbads/js/graffiti_data-150833228._V372077716_.js";
+ad_utils.ad_prediction.init();
+consoleLog('advertising initialized','ads');
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'f']);
+</script>
+<script>
+(function(url,onload,oncall) {
+var elem = document.createElement('script'),
+script = document.getElementsByTagName('script')[0],
+final_url = url.replace(ad_utils.ord_regex, ad_utils.ord);
+if (! navigator.userAgent.match('Firefox/(1|2)\\.')) {
+elem.async = true;
+elem.src = final_url;
+if (onload) {
+elem.onload = onload;
+}
+script.parentNode.insertBefore(elem, script);
+if (oncall) {
+oncall();
+}
+}
+})("http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=[CLIENT_SIDE_ORD]&ord=[CLIENT_SIDE_ORD]",undefined,custom.amazon.aan_iframe_oncall);
+</script>
+<!-- end ads header -->
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script type="text/javascript">
+ad_utils.register_ad('top_ad');
+</script>
+<iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="top_ad_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('top_ad');</script>
+<!-- End TOP_AD -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._V397576211_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._V397576211_.css"><![endif]-->
+<span id="home_img_holder">
+<a
+onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/';"
+href="/"
+title="Home"
+class="navbarSprite"
+id="home_img"
+></a>  <span class="alt_logo">
+    <a
+onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/';"
+href="/"
+title="Home"
+>IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="vi" >Videos</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="nb_personal">
+  <a
+onclick="(new Image()).src='/rg/register-v2/navbar/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
+href="https://secure.imdb.com/register-imdb/form-v2"
+>Register</a>
+  | <a
+onclick="(new Image()).src='/rg/login/navbar/images/b.gif?link=/register/login';"
+rel="login"
+href="/register/login"
+id="nblogin"
+>Login</a>
+| <a
+onclick="(new Image()).src='/rg/help/navbar/images/b.gif?link=/help/';"
+href="/help/"
+>Help</a>
+</div>
+<div>
+  <ul id="consumer_main_nav" class="main_nav">
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/movies-in-theaters/?ref_=nb_mv_1_inth" class="navbarSprite" >Movies</a>
+      <ul class="sub_nav">
+           <li><a href="/movies-in-theaters/?ref_=nb_mv_2_inth" >In Theaters</a></li>
+           <li><a href="/chart/top?ref_=nb_mv_3_chttp" >Top 250</a></li>
+           <li><a href="/chart/?ref_=nb_mv_4_cht" >US Box Office</a></li>
+           <li><a href="/movies-coming-soon/?ref_=nb_mv_5_cs" >Coming Soon</a></li>
+           <li><a href="/trailers?ref_=nb_mv_6_tr" >Trailer Gallery</a></li>
+           <li><a href="/watchnow/?ref_=nb_mv_7_wn" >Watch Now on AIV</a></li>
+           <li><a href="/sections/dvd/?ref_=nb_mv_8_dvd" >On DVD & Blu-Ray</a></li>
+           <li><a href="/x-ray/?ref_=nb_mv_9_xray" >X-Ray for Movies & TV</a></li>
+           <li><a href="/oscars/?ref_=nb_mv_10_rto" >Road to the Oscars</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/tv/?ref_=nb_tv_1_hm" class="navbarSprite" >TV</a>
+      <ul class="sub_nav">
+           <li><a href="/tv/?ref_=nb_tv_2_hm" >TV Home</a></li>
+           <li><a href="/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series&ref_=nb_tv_3_srs" >Top TV Series</a></li>
+           <li><a href="/tvgrid/?ref_=nb_tv_4_ls" >TV Listings</a></li>
+           <li><a href="/features/video/tv/?ref_=nb_tv_5_ep" >TV Episodes</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/news/top?ref_=nb_nw_1_tp" class="navbarSprite" >News</a>
+      <ul class="sub_nav">
+           <li><a href="/news/top?ref_=nb_nw_2_tp" >Top News</a></li>
+           <li><a href="/news/movie?ref_=nb_nw_3_mv" >Movie News</a></li>
+           <li><a href="/news/tv?ref_=nb_nw_4_tv" >TV News</a></li>
+           <li><a href="/news/celebrity?ref_=nb_nw_5_cel" >Celebrity News</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/showtimes/?ref_=nb_sh_1_sh" class="navbarSprite" >Showtimes</a>
+      <ul class="sub_nav">
+           <li><a href="/showtimes/?ref_=nb_sh_2_sh" >Movie Showtimes</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/boards/?ref_=nb_cm_1_bd" class="navbarSprite" >Community</a>
+      <ul class="sub_nav">
+           <li><a href="/boards/?ref_=nb_cm_2_bd" >Message Boards</a></li>
+           <li><a href="/lists?ref_=nb_cm_3_nls" >Newest Lists</a></li>
+           <li><a href="/profile/lists?ref_=nb_cm_4_yls" >Your Lists</a></li>
+           <li><a href="/list/ratings?ref_=nb_cm_5_yrt" >Your Ratings</a></li>
+           <li><a href="/czone/?ref_=nb_cm_6_cz" >Contributor Zone</a></li>
+           <li><a href="/games/guess?ref_=nb_cm_7_qz" >Quiz Game</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a
+onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=/r/IMDbTabNB/';"
+href="/r/IMDbTabNB/"
+class="navbarSprite"
+>IMDbPro</a>
+      <ul class="sub_nav">
+           <li><a
+onclick="(new Image()).src='/rg/procontact/navbar/images/b.gif?link=/r/nm_ovrview_contact/representation/';"
+href="/r/nm_ovrview_contact/representation/"
+>Contact Info</a></li>
+           <li><a
+onclick="(new Image()).src='/rg/photos/navbar/images/b.gif?link=/r/Resume/resume/update/photos';"
+href="/r/Resume/resume/update/photos"
+>Add Photos</a></li>
+      </ul>
+      </li>
+      <li class="css_nav_item" aria-haspopup="true">
+        <a href="/apps/?ref_=nb_app_1_hm" class="navbarSprite" >Apps</a>
+      <ul class="sub_nav">
+           <li><a href="/apps/?ref_=nb_app_2_hm" >Apps Home</a></li>
+           <li><a href="/apps/ios/?ref_=nb_app_3_ios" >iPhone + iPad Apps</a></li>
+           <li><a href="/apps/android/?ref_=nb_app_4_andr" >Android Apps</a></li>
+           <li><a href="/apps/kindlefire/?ref_=nb_app_5_fire" >Kindle Fire App</a></li>
+      </ul>
+      </li>
+  </ul>
+</div>
+<div class="nb_extra">
+<a
+onclick="(new Image()).src='/rg/watchlist/navbar/images/b.gif?link=/list/watchlist';"
+href="/list/watchlist"
+>Your Watchlist</a>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- begin injectable INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<iframe id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe> </div>
+<script>ad_utils.inject_ad.register('injected_navstrip');</script>
+<div id="injected_navstrip_reflow_helper"></div>
+<!-- end injectable INJECTED_NAVSTRIP -->
+	
+                <div id="pagecontent" itemscope itemtype="http://schema.org/Movie">
+	
+	<!-- begin injectable INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<iframe id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe> </div>
+<script>ad_utils.inject_ad.register('injected_billboard');</script>
+<div id="injected_billboard_reflow_helper"></div>
+<!-- end injectable INJECTED_BILLBOARD -->
+	
+
+  <script type="text/javascript">setTimeout(function() {
+    var url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0116282%2F";
+    var like = document.getElementById('iframe_like');
+    like.src = url;
+    like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); } }, 5);
+  </script>
+
+<div id="content-2-wide" class="redesign">
+    <div class="maindetails_center" id="maindetails_center_top">
+         
+
+            
+            <div class="article title-overview">
+            
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_started');
+    }
+  </script>
+    <div id="title-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="title-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                            <div class="image">
+<a href="/media/rm3275850752/tt0116282?ref_=tt_ov_i" > <img height="317"
+width="214"
+alt="Fargo (1996) Poster"
+title="Fargo (1996) Poster"
+src="http://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_SX214_.jpg"
+itemprop="image" />
+</a>                            </div> 
+                    </td>
+                    <td id="overview-top">
+    
+    <div id="prometer_container">
+        <div id="prometer" class="meter-collapsed down">
+            <div id="meterHeaderBox">
+                <div id="meterTitle" class="meterToggleOnHover">MOVIEmeter</div>
+<a
+onclick="(new Image()).src='/rg/tt_moviemeter_why/prosystem/images/b.gif?link=/r/tt_moviemeter_why/title/tt0116282';"
+href="/r/tt_moviemeter_why/title/tt0116282"
+id="meterRank"
+>Top 5000
+</a>            </div>
+            <div id="meterChangeRow" class="meterToggleOnHover">
+                    <span>Down</span>
+                <span id="meterChange">263</span>
+                <span>this week</span>
+            </div>
+            <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a
+onclick="(new Image()).src='/rg/tt_moviemeter_why/prosystem/images/b.gif?link=/r/tt_moviemeter_why/title/tt0116282';"
+href="/r/tt_moviemeter_why/title/tt0116282"
+>View rank on IMDbPro</a>
+                <span>&raquo;</span>
+            </div>
+        </div>
+    </div>
+<h1 class="header"> <span class="itemprop" itemprop="name">Fargo</span> 
+            <span class="nobr">(<a href="/year/1996/?ref_=tt_ov_inf" >1996</a>)</span>
+    
+</h1>
+    <div class="infobar">
+
+            
+
+                    
+                        <span title="R"
+                              class="us_r titlePageSprite absmiddle"
+                              itemprop="contentRating"><meta itemprop="contentRating" content="R" /></span>
+        
+        
+            <time itemprop="duration" datetime="PT98M" >
+                98 min
+</time>        
+                &nbsp;-&nbsp;
+<a href="/genre/Crime?ref_=tt_ov_inf" ><span class="itemprop" itemprop="genre">Crime</span></a>
+ <span class="ghost">|</span> 
+<a href="/genre/Drama?ref_=tt_ov_inf" ><span class="itemprop" itemprop="genre">Drama</span></a>
+
+                &nbsp;-&nbsp;
+            <span class="nobr">
+<a href="/title/tt0116282/releaseinfo?ref_=tt_ov_inf " title="See all release dates" > 5 April 1996<meta itemprop="datePublished" content="1996-04-05" />
+(USA)
+</a>            </span>
+        
+    </div>
+ 
+<div class="star-box giga-star">
+        <div class="titlePageSprite star-box-giga-star"> 8.2 </div>
+    <div class="star-box-rating-widget">
+            <span class="star-box-rating-label">Your rating:</span>
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0116282|imdb|0|0|title-maindetails" data-ga-identifier=""
+title="Users rated this 8.2/10 (259,092 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 0px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">-</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0116282/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+    </div> 
+    <div class="star-box-details" itemtype="http://schema.org/AggregateRating" itemscope itemprop="aggregateRating">
+            Ratings:
+<strong><span itemprop="ratingValue">8.2</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="259,092 IMDb users have given an average vote of 8.2/10" > <span itemprop="ratingCount">259,092</span> users
+</a>&nbsp;
+            Metascore: <a href="criticreviews?ref_=tt_ov_rt" title="85 review excerpts provided by Metacritic.com" > 85/100
+</a>            <br/>
+            Reviews: 
+<a href="reviews?ref_=tt_ov_rt" title="727 IMDb user reviews" > <span itemprop="reviewCount">727 user</span>
+</a> 
+                <span class="ghost">|</span>
+<a href="externalreviews?ref_=tt_ov_rt" title="141 IMDb critic reviews" > <span itemprop="reviewCount">141 critic</span>
+</a>             
+                <span class="ghost">|</span> 
+<a href="criticreviews?ref_=tt_ov_rt" title="24 review excerpts provided by Metacritic.com" > 24
+</a>                from
+<a href="http://www.metacritic.com" target='_blank'> Metacritic.com
+</a>             
+         
+    </div> 
+    <div class="clear"></div>
+</div> 
+                        <p></p>
+    <p itemprop="description">
+Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.    </p>
+                        <p></p>
+    <div class="txt-block" itemprop="director" itemscope itemtype="http://schema.org/Person"> 
+        <h4 class="inline">Director:</h4>
+<a href="/name/nm0001054/?ref_=tt_ov_dr" itemprop='url'><span class="itemprop" itemprop="name">Joel Coen</span></a>
+    </div> 
+    <div class="txt-block" itemprop="creator" itemscope itemtype="http://schema.org/Person"> 
+        <h4 class="inline">Writers:</h4>
+<a href="/name/nm0001053/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Ethan Coen</span></a>, 
+<a href="/name/nm0001054/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Joel Coen</span></a>
+    </div> 
+                         
+                          <div class="txt-block" itemprop="actors" itemscope itemtype="http://schema.org/Person"> 
+                            <h4 class="inline">Stars:</h4>
+<a href="/name/nm0000513/?ref_=tt_ov_st" itemprop='url'><span class="itemprop" itemprop="name">William H. Macy</span></a>, 
+<a href="/name/nm0000114/?ref_=tt_ov_st" itemprop='url'><span class="itemprop" itemprop="name">Steve Buscemi</span></a>, 
+<a href="/name/nm0001780/?ref_=tt_ov_st" itemprop='url'><span class="itemprop" itemprop="name">Peter Stormare</span></a>                          <span class="ghost">|</span>
+                          <span class="see-more inline">
+<a href="fullcredits?ref_=tt_ov_st_sm#cast" itemprop='url'>See full cast and crew</a>                          </span>
+                        </div> 
+                       
+                     
+                   </td>
+                </tr>
+                <tr>
+                    <td id="overview-bottom">
+                        <div class="wlb_classic_wrapper">
+                          <span class="wlb_wrapper">
+                            <a class="wlb_watchlist_btn" data-tconst="tt0116282" data-size="large" data-caller-name="title" data-type="primary">
+                            </a>
+                            <a class="wlb_dropdown_btn" data-tconst="tt0116282" data-size="large" data-caller-name="title" data-type="primary">
+                            </a>
+                          </span>
+                          <div class="wlb_dropdown_list" style="display:none;">
+                          </div>
+                          <div class="wlb_alert" style="display:none">
+                          </div>
+                        </div>
+
+<div id="share-checkin">
+<div class="add_to_checkins" data-const="tt0116282" data-lcn="title-maindetails">
+<span class="btn2_wrapper"><a onclick='' class="btn2 large btn2_text_on disabled checkins_action_btn"><span class="btn2_glyph">0</span><span class="btn2_text">Check in</span></a></span>    <div class="popup checkin-dialog">
+        <a class="small disabled close btn">X</a>
+        <span class="beta">Beta</span>
+        <span class="title">I'm Watching This!</span>
+        <div class="body">
+            <div class="info">Keep track of everything you watch; tell your friends.
+            	<div class="info_details">
+            		If your account is linked with Facebook and you have turned on sharing, this will show up in your activity feed. If not, you can turn on sharing 
+            			<a
+onclick="(new Image()).src='/rg/unknown/unknown/images/b.gif?link=https://secure.imdb.com/register-imdb/sharing?ref=tt_checkin_share';"
+href="https://secure.imdb.com/register-imdb/sharing?ref=tt_checkin_share"
+>here</a>
+            		.
+            	</div>
+            </div>
+            <div class="small message_box">
+                <div class="hidden error"><h2>Error</h2> Please try again!</div>
+                <div class="hidden success"><h2>Added to Your Check-Ins.</h2> <a href="/list/checkins">View</a></div>
+            </div>
+            <textarea data-msg="Enter a comment..."></textarea>
+            <div class="share">
+                <button class="large primary btn"><span>Check in</span></button>
+<!--
+                    Check-ins are more fun when<br>
+                    you <a href="/register/sharing">enable Facebook sharing</a>!
+-->
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="49e6c" value="da29">
+</div>
+</div>
+<span class="btn2_wrapper"><a onclick='' class="btn2 large btn2_text_on launch-share-popover"><span class="btn2_glyph">0</span><span class="btn2_text">Share...</span></a></span><div id="share-popover">
+    <a class="close-popover" href="#">X</a>
+    <h4>Share</h4>
+
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0116282', 'newWindow', 'width=626,height=436'); return false;"
+    href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0116282"
+    target="_blank"
+    title="Share on Facebook"
+    class="facebook">
+    <div class="option facebook">
+        <span class="titlePageSprite share_facebook"></span>
+        <div>Facebook</div>
+    </div>
+</a>
+<a onclick="window.open('http://twitter.com/home?status=Fargo%20(1996)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0116282', 'newWindow', 'width=815,height=436'); return false;"
+    href="http://twitter.com/home?status=Fargo%20(1996)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0116282"
+    target="_blank"
+    title="Share on Twitter"
+    class="twitter">
+    <div class="option twitter">
+        <span class="titlePageSprite share_twitter"></span>
+        <div>Twitter</div>
+    </div>
+</a>
+
+    <a href="mailto:?subject=IMDb%3A%20Fargo%20(1996)&body=IMDb%3A%20Fargo%20(1996)%0AJerry%20Lundegaard's%20inept%20crime%20falls%20apart%20due%20to%20his%20and%20his%20henchmen's%20bungling%20and%20the%20persistent%20police%20work%20of%20the%20quite%20pregnant%20Marge%20Gunderson.%0Ahttp%3A%2F%2Fwww.imdb.com%2Frg%2Fem_share%2Ftitle_web%2Ftitle%2Ftt0116282" title="Share by e-mail">
+        <div class="option email">
+            <span class="titlePageSprite share_email"></span>
+            <div>E-mail</div>
+        </div>
+    </a>
+        <a href="#" class="open-checkin-popover">
+            <div class="option checkin">
+                <span class="titlePageSprite share_checkin"></span>
+                <div>Check in</div>
+            </div>
+        </a>
+</div>
+
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_finished');
+    }
+  </script>
+                
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_WatchBarWidget_started');
+    }
+  </script>
+
+    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_WatchBarWidget_finished');
+    }
+  </script>
+                
+            </div> 
+            
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+        
+    </div> 
+    
+    <div id="maindetails_sidebar_top" class="maindetails_sidebar">
+	
+	<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script type="text/javascript">
+ad_utils.register_ad('top_rhs');
+</script>
+<iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,300x600,300x300,11x1;p=tr;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="top_rhs_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('top_rhs');</script>
+<div id="top_rhs_after" class="after_ad">
+<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
+</div>
+<!-- End TOP_RHS -->
+	
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+    </div> 
+
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar">
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleQuickLinksWidgetRHS_started');
+    }
+  </script>
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3 class="inline">Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/fullcredits?ref_=tt_ql_1" class="link" >Full Cast and Crew</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/trivia?ref_=tt_ql_2" class="link" >Trivia</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/quotes?ref_=tt_ql_3" class="link" >Quotes</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/awards?ref_=tt_ql_4" class="link" >Awards</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/board/?ref_=tt_ql_5" class="link" >Message Board</a>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/plotsummary?ref_=tt_ql_6" class="link" >Plot Summary</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/parentalguide?ref_=tt_ql_7" class="link" >Parents Guide</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/reviews?ref_=tt_ql_8" class="link" >User Reviews</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/releaseinfo?ref_=tt_ql_9" class="link" >Release Dates</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/companycredits?ref_=tt_ql_10" class="link" >Company Credits</a>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/fullcredits?ref_=tt_ql_dt_1" class="link" >Full Cast and Crew</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/releaseinfo?ref_=tt_ql_dt_2" class="link" >Release Dates</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/officialsites?ref_=tt_ql_dt_3" class="link" >Official Sites</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/business?ref_=tt_ql_dt_4" class="link" >Box Office/Business</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/companycredits?ref_=tt_ql_dt_5" class="link" >Company Credits</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/locations?ref_=tt_ql_dt_6" class="link" >Filming Locations</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/technical?ref_=tt_ql_dt_7" class="link" >Technical Specs</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/literature?ref_=tt_ql_dt_8" class="link empty" >Literature</a>
+                </li>
+    </ul>
+
+
+        <h4>Storyline</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/taglines?ref_=tt_ql_stry_1" class="link" >Taglines</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/plotsummary?ref_=tt_ql_stry_2" class="link" >Plot Summary</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/synopsis?ref_=tt_ql_stry_3" class="link" >Synopsis</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/keywords?ref_=tt_ql_stry_4" class="link" >Plot Keywords</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/parentalguide?ref_=tt_ql_stry_5" class="link" >Parents Guide</a>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/trivia?ref_=tt_ql_trv_1" class="link" >Trivia</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/goofs?ref_=tt_ql_trv_2" class="link" >Goofs</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/crazycredits?ref_=tt_ql_trv_3" class="link" >Crazy Credits</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/quotes?ref_=tt_ql_trv_4" class="link" >Quotes</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/alternateversions?ref_=tt_ql_trv_5" class="link" >Alternate Versions</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/movieconnections?ref_=tt_ql_trv_6" class="link" >Connections</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/soundtrack?ref_=tt_ql_trv_7" class="link" >Soundtracks</a>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/mediaindex?ref_=tt_ql_pv_1" class="link" >Photo Gallery</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/videogallery?ref_=tt_ql_pv_2" class="link" >Trailers and Videos</a>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/awards?ref_=tt_ql_op_1" class="link" >Awards</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/faq?ref_=tt_ql_op_2" class="link" >FAQ</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/reviews?ref_=tt_ql_op_3" class="link" >User Reviews</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/ratings?ref_=tt_ql_op_4" class="link" >User Ratings</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/externalreviews?ref_=tt_ql_op_5" class="link" >External Reviews</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/criticreviews?ref_=tt_ql_op_6" class="link" >Metacritic Reviews</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/board/?ref_=tt_ql_op_7" class="link" >Message Board</a>
+                </li>
+    </ul>
+
+
+        <h4>External Links</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/miscsites?ref_=tt_ql_ex_1" class="link" >Miscellaneous</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/soundsites?ref_=tt_ql_ex_2" class="link" >Sound Clips</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/videosites?ref_=tt_ql_ex_3" class="link" >Video Clips</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/photosites?ref_=tt_ql_ex_4" class="link" >Photographs</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/posters?ref_=tt_ql_ex_5" class="link" >Posters</a>
+                </li>
+    </ul>
+
+
+        <h4>TV</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/tvschedule?ref_=tt_ql_tv_1" class="link empty" >TV Schedule</a>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt0116282/news?ref_=tt_ql_rel_1" class="link" >NewsDesk</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/showtimes/title/tt0116282?ref_=tt_ql_rel_2" class="link empty" >Showtimes</a>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/r/tt_moviemeter_why/title/tt0116282?ref_=tt_ql_pro_1" class="link" >Get more at IMDbPro</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="https://secure.imdb.com/store/photos/?ref_=tt_ql_pro_2" class="link" >Add posters & stills to this title</a>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more">Explore More</div>
+        <div class="show_less">Show Less</div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleQuickLinksWidgetRHS_finished');
+    }
+  </script>
+            
+  <div class="aux-content-widget-2"> 
+    <div class="social">
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/title/tt0116282/"
+      width=280
+      height=65></iframe>
+  </div>
+    </div>
+  </div>
+	
+	    <!-- begin RHS_CORNERSTONE -->
+	
+    
+
+
+
+        
+    <a target="_blank" href="http://aax-us-east.amazon-adsystem.com/x/c/TaDXbDaW67P8mwxh4l25Hg/http://pda-bes.amazon.com/c?i=1$AgAAAAAAAAAEAAAAAAAAAAIAAAAArjFRWoWfCl-JvLlBwdy.I-ObxCvN60Dkmmb2CFRb6aUj9uBenaDRD8qXz-EEJvpHKakqnVXebLe1UbOJa.uKGzoPrYKFytkG7SzeKhrj9vkpTwXY3VZW3sXFNbNym9.bbC5nkvUf5rkJ2mIv-yCV6GL0JVmLYbWOueL3DOS-94boE05xkQ4x9LQEuoCD7TnblQimM3Kq2r52KAzJDdb0l97yTHpJW3VVuzFdH4dig2oyE0Wjsgismy7Vfa7n2xfRpi1wF3UJYGdupRl-RKvvoUi.7OuyRD-fdz97N32IPGfdtiV3IqA1N3AiRffYNC72k04VkZZFgKKhHV.uCg8ZGTtOjFTZ3PXDbz5cmyxqQenhev9Q8GXwUBH7rS.7791DJcpm0ITsOL-4q5EcHsecsxT.1eFyaaYgU6tWmxO8XqtK0UTRzTPgyoZKT3EGwsRYccukqWTD3tC-j0BQejRk72DnTWp.sUj4GuTeHAOWcEv3YLvse.-NWYY.KDsZRYoxIf3lvzEi4VNQeNibFQVVbyr1mCApFWC7L4lrfyew2.IVp3V4UxdcGBdzs1ApB25.XFQRl76i8P6DRanLSoaqDNQXJ6KiZh4Yi-J1pHQ-Yf7molauPQ5o50eFuiZvONbORYSYU7TL-BSv.WyBaPhoRPK71iKrjtmhfcnd91TBODBCjcJ3fpsYkI0V10AUjfToVB-lJzuU0AlLveKT3HW7n.MeYPSJY2UiaFq-ssLqYakzVWQav1-t3YaGW3DPCdJZdAYbPX4K4wcj7ZcQEle1pTof4sEWmIXUiSpwigTze7.12M8BgJ.sj-Zvg9P2EsRRGKXq5HtXrsIepLeUbyXmljUskbIXDV6Cv8IslK.kdMxbmjgUeG88LDHyhjxLLNvOZGDYmUwa4bDZbuLVfr3WoHpHQk.frgxtrtv2P.iRis4pwqWcn9JLmrPCcHL-I8jK8M.E8rIFhKgelsGXFWU848Cr6fmCKT7Xy7A2ScyQVky5TsA2D-8fe7gV6o8GTFkLDiqxiPCgONz4kcEC-bUu.XtM.XDKSNkWTTHrOq-uCPcmr92VLB4X02fz0RkVztCjW9iVMVBdstdKaV0xIhrOwn04wDR2B0Fy2piOTbr.771lyA8g"><img src="//d2o307dm5mqftz.cloudfront.net/1000011/1366404568107/MV5BNTk4MzM3OTA0Nl5BMl5BZ2lmXkFtZTcwNTQxMDE0OQ__._V1_.gif" alt="" title="" width="300" height="125" border="0"></a>
+
+<!-- creativeModDate = 1366609044000 -->
+    	<div id="rhs_cornerstone_webbug" style="display:none;">
+    	   <img src="http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=c8edd0ab-b7b3-4da4-bca7-8ef1f7aeb4c8" border="0" height="1" width="1" alt=""/>
+    	</div>
+    <!-- End RHS_CORNERSTONE -->
+
+	
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_started');
+    }
+  </script>
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0116282/news?ref_=tt_nwr_1#ni51825863" >5 Biggest Best Picture Oscar Upsets Of The Past 20 Years</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  21 April 2013 5:43 PM, UTC
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0012032?ref_=tt_nwr_1" >Obsessed with Film</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0116282/news?ref_=tt_nwr_2#ni51666183" >Carter Burwell Set To Score Thor: The Dark World</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  19 April 2013 5:17 PM, UTC
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000187?ref_=tt_nwr_2" >ComicBookMovie.com</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0116282/news?ref_=tt_nwr_3#ni50350077" >Billy Crudup, Anton Yelcin, Selena Gomez, Laurence Fishburne Join William H. Macy’s Rudderless</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  2 April 2013 1:47 AM, UTC
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000310?ref_=tt_nwr_3" >WeAreMovieGeeks.com</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/title/tt0116282/news?ref_=tt_nwr_sm" >See all 581 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_finished');
+    }
+  </script>
+        
+	
+	<!-- no content received for slot: middle_rhs -->
+	
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedListsWidget_started');
+    }
+  </script>
+    
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=tt_rls" >Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+                
+                    <div class="list-preview even">
+                        <div class="list-preview-item-narrow">
+<a href="/list/7L9dhojuJFE/?ref_=tt_rls_0" >
+<img height="86" width="86" alt="list image" title="list image"
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
+</a>                        </div>
+                        <div class="list_name">
+                            <b><a href="/list/7L9dhojuJFE/?ref_=tt_rls_0" >My All-Time Favorite Movies</a></b>
+                        </div>
+                        <div class="list_meta">
+                            a list of 438 titles 
+                             created 28&nbsp;May&nbsp;2011
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="list-preview odd">
+                        <div class="list-preview-item-narrow">
+<a href="/list/tNwWwtkvwDQ/?ref_=tt_rls_1" >
+<img height="86" width="86" alt="list image" title="list image"
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
+</a>                        </div>
+                        <div class="list_name">
+                            <b><a href="/list/tNwWwtkvwDQ/?ref_=tt_rls_1" >1000 Movies you must see</a></b>
+                        </div>
+                        <div class="list_meta">
+                            a list of 958 titles 
+                             created 10&nbsp;Mar&nbsp;2012
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="list-preview even">
+                        <div class="list-preview-item-narrow">
+<a href="/list/cL2q8EQgUzs/?ref_=tt_rls_2" >
+<img height="86" width="86" alt="list image" title="list image"
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
+</a>                        </div>
+                        <div class="list_name">
+                            <b><a href="/list/cL2q8EQgUzs/?ref_=tt_rls_2" >movies you should watch before you die</a></b>
+                        </div>
+                        <div class="list_meta">
+                            a list of 2331 titles 
+                             created 3&nbsp;months&nbsp;ago
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="list-preview odd">
+                        <div class="list-preview-item-narrow">
+<a href="/list/bOt-Js5mT0k/?ref_=tt_rls_3" >
+<img height="86" width="86" alt="list image" title="list image"
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEzMDE4MzMwMF5BMl5BanBnXkFtZTcwMjI3NzcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMjEzMDE4MzMwMF5BMl5BanBnXkFtZTcwMjI3NzcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
+</a>                        </div>
+                        <div class="list_name">
+                            <b><a href="/list/bOt-Js5mT0k/?ref_=tt_rls_3" >100 Movies I Like, Part 2</a></b>
+                        </div>
+                        <div class="list_meta">
+                            a list of 100 titles 
+                             created 6&nbsp;days&nbsp;ago
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                    <div class="list-preview even">
+                        <div class="list-preview-item-narrow">
+<a href="/list/Z6CzENr2dIc/?ref_=tt_rls_4" >
+<img height="86" width="86" alt="list image" title="list image"
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIwNDc3MjQzNV5BMl5BanBnXkFtZTcwMDUzMjcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMTIwNDc3MjQzNV5BMl5BanBnXkFtZTcwMDUzMjcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
+</a>                        </div>
+                        <div class="list_name">
+                            <b><a href="/list/Z6CzENr2dIc/?ref_=tt_rls_4" >Films that should have won Best Picture</a></b>
+                        </div>
+                        <div class="list_meta">
+                            a list of 8 titles 
+                             created 4&nbsp;months&nbsp;ago
+                        </div>
+                        <div class="clear">&nbsp;</div>
+                    </div>
+                <div class="see-more">
+                    <a href="/lists/tt0116282?ref_=tt_rls_sm" >See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedListsWidget_finished');
+    }
+  </script>
+        
+	
+	<!-- no content received for slot: btf_rhs1 -->
+	
+<div class="aux-content-widget-2">
+    <h3>Connect with IMDb</h3>
+    <div id="facebookWrapper">
+        <iframe src="http://www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&amp;width=300&amp;connections=5&amp;stream=false&amp;header=false&amp;height=190"
+            scrolling="no"
+            frameborder="0"
+            id="facebookIframe"
+            allowTransparency="true"></iframe>
+    </div>
+    <hr>
+    <iframe allowtransparency="true"
+        frameborder="0"
+        role="presentation"
+        scrolling="no"
+        id="twitterIframe"
+        src="http://i.media-imdb.com/images/social/twitter.html?10#imdb"></iframe>
+</div>
+
+  
+      
+    <div class="aux-content-widget-2">
+        <div id="ratingWidget">
+            <h3>Share this Rating</h3>
+            <p>
+                Title:
+                <strong>Fargo</strong>
+                (1996)
+            </p>
+            <span class="imdbRatingPlugin imdbRatingStyle1" data-user="" data-title="tt0116282" data-style="t1">
+<a href="/title/tt0116282/?ref_=tt_plg_rt" > <img alt="Fargo (1996) on IMDb"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._V377175616_.png">
+</a>                <span class="rating">8.2<span class="ofTen">/10</span></span>                
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._V377175623_.png" class="star">
+            </span>
+            <p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
+            <div id="ratingPluginHTML" class="hidden">
+                <div class="message_box small">
+                    <div class="error">
+                        <p>
+                        You must be a registered user to use the IMDb rating plugin.
+                        </p>
+                        <a href="/register/login?ref_=tt_plg_rt" class="cboxElement" rel='login'>Login</a>
+                    </div>
+                </div>
+            </div>
+            <div id="ratingWidgetLinks">
+                <span class="titlePageSprite arrows show"></span>
+                <a href="/plugins?titleId=tt0116282&ref_=tt_plg_rt" id="toggleRatingPluginHTML" itemprop='url' >Show HTML</a>
+                <a href="/plugins?titleId=tt0116282&ref_=tt_plg_rt" itemprop='url'>View more styles</a>
+            </div>
+        </div>
+    </div>
+<div class="aux-content-widget-2 play_quiz_widget">
+    <h3>Take The Quiz!</h3>
+<a href="/games/guess/tt0116282?ref_=tt_qz" class="icon" ></a><span>Test your knowledge of <a href="/games/guess/tt0116282?ref_=tt_qz" >Fargo</a>.</span>
+</div>
+        
+	
+	<!-- no content received for slot: bottom_rhs -->
+	
+        
+	
+	        <!-- sid: test01-channel : RHS_SPONSORED_LINKS -->    
+            
+        <script>     
+        if (typeof afc_data == "undefined") {   
+            afc_data = new Object();    
+        }   
+            
+        afc_data["RHS_SPONSORED_LINKS"] = { 
+            channel:  "test01-channel",   
+            client:   "ca-amazon-imdb_js",    
+            title:    "Sponsored Links",    
+            help:     "What's This?",    
+            hints:    "ransom,money,blood,murder,kidnapping"   
+        };     
+        </script>   
+            
+        <div id="sponsored_links_afc_div_RHS_SPONSORED_LINKS" name="sponsored_links_afc_div_RHS_SPONSORED_LINKS"></div>   
+            
+        <iframe id="sponsored_links_afc_iframe_RHS_SPONSORED_LINKS" width="0" height="0" scrolling="no" frameborder="0"      
+                allowtransparency="true" marginheight="0" marginwidth="0" name="sponsored_links_afc_iframe"   
+                src="/images/a/ifb/google_afc_rhs.html#key:RHS_SPONSORED_LINKS">     
+        </iframe> 
+
+	
+	
+	<!-- begin BTF_RHS2 -->
+<div id="btf_rhs2_wrapper" class="dfp_slot">
+<script type="text/javascript">
+ad_utils.register_ad('btf_rhs2');
+</script>
+<iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,16x1;p=br2;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="btf_rhs2" name="btf_rhs2" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,16x1;p=br2;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,16x1;p=br2;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="btf_rhs2_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('btf_rhs2');</script>
+<!-- End BTF_RHS2 -->
+	
+        
+    </div> 
+    
+    <div id="maindetails_center_bottom" class="maindetails_center">
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleEpisodesWidget_started');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleEpisodesWidget_finished');
+    }
+  </script>
+            
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_started');
+    }
+  </script>
+        
+          <div class="article highlighted" id="titleAwardsRanks">
+<a href="/chart/top?tt0116282&ref_=tt_awd" ><strong>Top 250 #129</strong></a> 
+            
+                    |
+             
+            
+                    <span itemprop="awards"><b>Won 2 Oscars.</b></span>
+                    <span itemprop="awards">Another 59 wins & 32 nominations.</span>
+                <span class="see-more inline">
+<a href="/title/tt0116282/awards?ref_=tt_awd" >See more awards</a>&nbsp;&raquo;                </span>
+          </div>
+         
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_finished');
+    }
+  </script>
+            
+        
+        
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+    
+    
+    
+
+      <div class = "article" id="titleMediaStrip">
+        <div class="mediastrip_container combined">
+                <div id="combined-photos">
+                    <h2>Photos</h2>
+                    <div class="mediastrip">
+<a href="/media/rm4232152064/tt0116282?ref_=tt_pv_md_1" itemprop='thumbnailUrl'><img height="105" width="105" alt="" title=""src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._V394978422_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzNzA3NjU4OF5BMl5BanBnXkFtZTcwMTkzNjMyNA@@._V1_SY105_CR25,0,105,105_.jpg" itemprop='image' /></a>                                    
+<a href="/media/rm152993792/tt0116282?ref_=tt_pv_md_2" itemprop='thumbnailUrl'><img height="105" width="105" alt="" title=""src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._V394978422_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQwNTAzMTU4M15BMl5BanBnXkFtZTcwMDgzNDY3Mw@@._V1_SY105_CR44,0,105,105_.jpg" itemprop='image' /></a>                                    
+<a href="/media/rm1503049728/tt0116282?ref_=tt_pv_md_3" itemprop='thumbnailUrl'><img height="105" width="105" alt="" title=""src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._V394978422_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxOTgzNDczMl5BMl5BanBnXkFtZTcwOTIwNjM5NA@@._V1_SY105_CR25,0,105,105_.jpg" itemprop='image' /></a>                                    
+<a href="/media/rm4265706496/tt0116282?ref_=tt_pv_md_4" itemprop='thumbnailUrl'><img height="105" width="105" alt="" title=""src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._V394978422_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMzg0MDMyNjQ3NF5BMl5BanBnXkFtZTcwOTgzNjMyNA@@._V1_SX105_CR0,0,105,105_.jpg" itemprop='image' /></a>                                    
+<a href="/media/rm4248929280/tt0116282?ref_=tt_pv_md_5" itemprop='thumbnailUrl'><img height="105" width="105" alt="" title=""src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._V394978422_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTU1MjI5OTQ0NF5BMl5BanBnXkFtZTcwMDkzNjMyNA@@._V1_SY105_CR27,0,105,105_.jpg" itemprop='image' /></a>                                    
+                    </div>
+                </div>
+            <div class="combined-see-more see-more">
+<a href="/title/tt0116282/mediaindex?ref_=tt_pv_md_sm" ><span class="titlePageSprite showAllVidsAndPics"></span></a>
+                         
+<a href="/title/tt0116282/mediaindex?ref_=tt_pv_md_sm" >30 photos</a>                
+                        <span>|</span>
+<a href="/title/tt0116282/videogallery?ref_=tt_pv_vi_sm" >1 video</a>                
+                        <span>|</span>
+<a href="/title/tt0116282/news?ref_=tt_pv_md_sm" >581 news articles</a>            </div>
+        </div>
+      </div>  
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+    
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_started');
+    }
+  </script>
+
+    <div class="article" id="titleRecs">
+        <span class="rightcornerlink">
+        <a href="/help/show_leaf?personalrecommendations&ref_=tt_rec_lm" >Learn more</a>
+        </span>
+        <h2 class="rec_heading_wrapper">  
+          <span class="rec_heading" data-spec="p13nsims:tt0116282">People who liked this also liked...&nbsp;</span>
+        </h2>
+        <div class="rec_wrapper" id="title_recs"
+            data-items-per-request="24"
+            data-items-per-page="6"
+            data-specs="p13nsims:tt0116282"
+            data-caller-name="p13nsims-title">      
+            
+    <div class="rec_const_picker">
+        <div class="rec_view">
+            <div class="rec_grave" style="display:none"></div>
+            <div class="rec_slide">
+                        <div class="rec_page">         
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0086979">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0086979/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Blood Simple." title="Blood Simple."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU5OTM3OTQ5M15BMl5BanBnXkFtZTYwNzEzMDc5._V1_SX76_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0100150">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0100150/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Miller's Crossing" title="Miller's Crossing"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk2NDIxNzEyNF5BMl5BanBnXkFtZTYwMjk2NTk5._V1_SY113_CR2,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0099685">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0099685/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Goodfellas" title="Goodfellas"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SY113_CR2,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0119008">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0119008/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Donnie Brasco" title="Donnie Brasco"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEyNTIyODQ4OV5BMl5BanBnXkFtZTcwNzE5NTc0MQ@@._V1_SY113_CR5,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0106519">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0106519/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Carlito's Way" title="Carlito's Way"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNjU1OTE5NDIyNl5BMl5BanBnXkFtZTYwMjg1NDg4._V1_SX76_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0780536">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0780536/?ref_=tt_rec_tti" ><img height="113" width="76" alt="In Bruges" title="In Bruges"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTY4OTYxODg4MV5BMl5BanBnXkFtZTcwMDcyNzM2MQ@@._V1_SY113_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+                        </div>
+                        <div class="rec_page">         
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0292963">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0292963/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Before the Devil Knows You're Dead" title="Before the Devil Knows You're Dead"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@._V1_SY113_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0071562">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0071562/?ref_=tt_rec_tti" ><img height="113" width="76" alt="The Godfather: Part II" title="The Godfather: Part II"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_SX76_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0119396">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0119396/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Jackie Brown" title="Jackie Brown"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUxMzAwMzE5MF5BMl5BanBnXkFtZTcwNzM0MzA5NA@@._V1_SY113_CR2,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0110413">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0110413/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Léon" title="Léon"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1_SY113_CR1,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0106856">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0106856/?ref_=tt_rec_tti" ><img height="113" width="76" alt="Falling Down" title="Falling Down"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA2NTY0MTIyNF5BMl5BanBnXkFtZTYwMTAwMjQ5._V1_SY113_CR1,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+    
+    <div class="rec_item" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0840361">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0840361/?ref_=tt_rec_tti" ><img height="113" width="76" alt="The Town" title="The Town"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._V394978416_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SY113_CR0,0,76,113_.jpg" /> <br/>
+</a>    </div>
+
+                        </div>
+            </div>
+            <div class="rec_nav">
+                <div class="rec_nav_page_num"></div>
+                <a class="rec_nav_left">&#9668; Prev 6</a>
+                <a class="rec_nav_right">Next 6 &#9658;</a>
+            </div>
+        </div>
+    </div>
+            
+   <div class="rec_overviews">
+
+         
+      <div class="rec_overview" data-tconst="tt0086979">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0086979">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0086979/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Blood Simple." title="Blood Simple."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU5OTM3OTQ5M15BMl5BanBnXkFtZTYwNzEzMDc5._V1_SX128_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0086979" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0086979/?ref_=tt_rec_tt" ><b>Blood Simple.</b></a>
+            <span class="nobr">(1984)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0086979|imdb|7.7|7.7|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.7/10 (46,027 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 107.8px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.7</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0086979/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A rich but jealous man hires a private investigator to kill his cheating wife and her new man. But, when blood is involved, nothing is simple.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Joel Coen  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+John Getz, 
+Frances McDormand, 
+Dan Hedaya</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0100150">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0100150">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0100150/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Miller's Crossing" title="Miller's Crossing"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk2NDIxNzEyNF5BMl5BanBnXkFtZTYwMjk2NTk5._V1_SY190_CR3,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0100150" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0100150/?ref_=tt_rec_tt" ><b>Miller's Crossing</b></a>
+            <span class="nobr">(1990)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0100150|imdb|7.9|7.9|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.9/10 (72,822 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 110.6px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0100150/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Tom Regan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Joel Coen  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Gabriel Byrne, 
+Marcia Gay Harden, 
+John Turturro</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0099685">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0099685">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0099685/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Goodfellas" title="Goodfellas"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SY190_CR4,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0099685" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0099685/?ref_=tt_rec_tt" ><b>Goodfellas</b></a>
+            <span class="nobr">(1990)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    Certificate: A
+
+                     Biography          
+ <span class="ghost">|</span> 
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0099685|imdb|8.8|8.8|p13nsims-title" data-ga-identifier=""
+title="Users rated this 8.8/10 (417,046 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 123.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0099685/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Henry Hill and his friends work their way up through the mob hierarchy.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Martin Scorsese  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Robert De Niro, 
+Ray Liotta, 
+Joe Pesci</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0119008">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0119008">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0119008/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Donnie Brasco" title="Donnie Brasco"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEyNTIyODQ4OV5BMl5BanBnXkFtZTcwNzE5NTc0MQ@@._V1_SY190_CR8,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0119008" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0119008/?ref_=tt_rec_tt" ><b>Donnie Brasco</b></a>
+            <span class="nobr">(1997)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Donnie Brasco (1997)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Biography          
+ <span class="ghost">|</span> 
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0119008|imdb|7.8|7.8|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.8/10 (143,260 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 109.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0119008/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+An FBI undercover agent infilitrates the mob and finds himself identifying more with the mafia life to the expense of his regular one.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Mike Newell  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Al Pacino, 
+Johnny Depp, 
+Michael Madsen</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0106519">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0106519">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0106519/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Carlito's Way" title="Carlito's Way"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNjU1OTE5NDIyNl5BMl5BanBnXkFtZTYwMjg1NDg4._V1_SX128_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0106519" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0106519/?ref_=tt_rec_tt" ><b>Carlito's Way</b></a>
+            <span class="nobr">(1993)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Carlito's Way (1993)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0106519|imdb|7.9|7.9|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.9/10 (107,373 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 110.6px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0106519/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of NYC.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Brian De Palma  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Al Pacino, 
+Sean Penn, 
+Penelope Ann Miller</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0780536">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0780536">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0780536/?ref_=tt_rec_tti" ><img height="190" width="128" alt="In Bruges" title="In Bruges"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTY4OTYxODg4MV5BMl5BanBnXkFtZTcwMDcyNzM2MQ@@._V1_SY190_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0780536" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0780536/?ref_=tt_rec_tt" ><b>In Bruges</b></a>
+            <span class="nobr">(2008)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for In Bruges (2008)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Comedy          
+ <span class="ghost">|</span> 
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0780536|imdb|8|8|p13nsims-title" data-ga-identifier=""
+title="Users rated this 8/10 (204,082 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 112px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0780536/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Martin McDonagh  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Elizabeth Berrington, 
+Colin Farrell, 
+Brendan Gleeson</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0292963">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0292963">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0292963/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Before the Devil Knows You're Dead" title="Before the Devil Knows You're Dead"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@._V1_SY190_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0292963" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0292963/?ref_=tt_rec_tt" ><b>Before the Devil Knows You're Dead</b></a>
+            <span class="nobr">(2007)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Before the Devil Knows You're Dead (2007)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0292963|imdb|7.3|7.3|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.3/10 (61,383 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 102.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.3</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0292963/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+When two brothers organize the robbery of their parents' jewelry store the job goes horribly wrong, triggering a series of events that sends them, their father and one brother's wife hurtling towards a shattering climax.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Sidney Lumet  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Philip Seymour Hoffman, 
+Ethan Hawke, 
+Albert Finney</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0071562">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0071562">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0071562/?ref_=tt_rec_tti" ><img height="190" width="128" alt="The Godfather: Part II" title="The Godfather: Part II"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_SX128_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0071562" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0071562/?ref_=tt_rec_tt" ><b>The Godfather: Part II</b></a>
+            <span class="nobr">(1974)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0071562|imdb|9.1|9.1|p13nsims-title" data-ga-identifier=""
+title="Users rated this 9.1/10 (440,133 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 127.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">9.1</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0071562/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Francis Ford Coppola  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Al Pacino, 
+Robert Duvall, 
+Diane Keaton</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0119396">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0119396">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0119396/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Jackie Brown" title="Jackie Brown"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUxMzAwMzE5MF5BMl5BanBnXkFtZTcwNzM0MzA5NA@@._V1_SY190_CR3,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0119396" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0119396/?ref_=tt_rec_tt" ><b>Jackie Brown</b></a>
+            <span class="nobr">(1997)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Jackie Brown (1997)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0119396|imdb|7.5|7.5|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.5/10 (153,666 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 105px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0119396/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A female flight attendant becomes a key figure in a plot between the police and an arms dealer.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Quentin Tarantino  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Pam Grier, 
+Samuel L. Jackson, 
+Robert Forster</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0110413">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0110413">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0110413/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Léon" title="Léon"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1_SY190_CR2,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0110413" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0110413/?ref_=tt_rec_tt" ><b>Léon</b></a>
+            <span class="nobr">(1994)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Léon (1994)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0110413|imdb|8.6|8.6|p13nsims-title" data-ga-identifier=""
+title="Users rated this 8.6/10 (405,696 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 120.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.6</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0110413/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A professional assassin rescues a teenage girl whose parents were killed in a police raid.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Luc Besson  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Jean Reno, 
+Gary Oldman, 
+Natalie Portman</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0106856">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0106856">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0106856/?ref_=tt_rec_tti" ><img height="190" width="128" alt="Falling Down" title="Falling Down"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA2NTY0MTIyNF5BMl5BanBnXkFtZTYwMTAwMjQ5._V1_SY190_CR1,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0106856" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0106856/?ref_=tt_rec_tt" ><b>Falling Down</b></a>
+            <span class="nobr">(1993)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Falling Down (1993)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0106856|imdb|7.6|7.6|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.6/10 (91,184 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 106.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.6</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0106856/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+An unemployed defense worker frustrated with the various flaws he sees in society, begins to psychotically and violently lash out against them.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Joel Schumacher  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Michael Douglas, 
+Robert Duvall, 
+Barbara Hershey</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0840361">
+    
+    
+    <div class="rec_poster" data-info="sims:tt0116282" data-spec="p13nsims:tt0116282" data-tconst="tt0840361">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0840361/?ref_=tt_rec_tti" ><img height="190" width="128" alt="The Town" title="The Town"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._V394978381_.png"class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SY190_CR0,0,128,190_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0840361" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0840361/?ref_=tt_rec_tt" ><b>The Town</b></a>
+            <span class="nobr">(2010)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for The Town (2010)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0840361|imdb|7.6|7.6|p13nsims-title" data-ga-identifier=""
+title="Users rated this 7.6/10 (176,441 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 106.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>1</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>2</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>3</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>4</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>5</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>6</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>7</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>8</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>9</span></a>
+      <a rel="nofollow" href="/register/login?why=vote&ref_=tt_ov_rt" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.6</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0840361/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Ben Affleck  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Ben Affleck, 
+Rebecca Hall, 
+Jon Hamm</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+    
+   </div>
+   
+            
+        </div>
+    </div>  
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_finished');
+    }
+  </script>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_started');
+    }
+  </script>
+    <div class="article" id="titleCast">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_cl" rel="login">Edit</a>
+    </span>
+        <h2>Cast</h2>
+        
+        <table class="cast_list">    
+        <tr><td colspan="4" class="castlist_label">Cast overview, first billed only:</td></tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0000513/?ref_=tt_cl_i1" ><img height="44" width="32" alt="William H. Macy" title="William H. Macy"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjIzOTk5MTAzNV5BMl5BanBnXkFtZTcwNTk0MzMyNw@@._V1_SX32_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0000513/?ref_=tt_cl_t1" itemprop='url'> <span class="itemprop" itemprop="name">William H. Macy</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003302/?ref_=tt_cl_t1" >Jerry Lundegaard</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0000114/?ref_=tt_cl_i2" ><img height="44" width="32" alt="Steve Buscemi" title="Steve Buscemi"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_SY44_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0000114/?ref_=tt_cl_t2" itemprop='url'> <span class="itemprop" itemprop="name">Steve Buscemi</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003301/?ref_=tt_cl_t2" >Carl Showalter</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0001780/?ref_=tt_cl_i3" ><img height="44" width="32" alt="Peter Stormare" title="Peter Stormare"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BOTUyMDQ0MTEyNF5BMl5BanBnXkFtZTYwNDYxMDkz._V1_SX32_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0001780/?ref_=tt_cl_t3" itemprop='url'> <span class="itemprop" itemprop="name">Peter Stormare</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003303/?ref_=tt_cl_t3" >Gaear Grimsrud</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0749021/?ref_=tt_cl_i4" ><img height="44" width="32" alt="Kristin Rudrüd" title="Kristin Rudrüd"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0749021/?ref_=tt_cl_t4" itemprop='url'> <span class="itemprop" itemprop="name">Kristin Rudrüd</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003308/?ref_=tt_cl_t4" >Jean Lundegaard</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0696193/?ref_=tt_cl_i5" ><img height="44" width="32" alt="Harve Presnell" title="Harve Presnell"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQwMjc3MTYyOV5BMl5BanBnXkFtZTYwMzc2NDg3._V1_SY44_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0696193/?ref_=tt_cl_t5" itemprop='url'> <span class="itemprop" itemprop="name">Harve Presnell</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003307/?ref_=tt_cl_t5" >Wade Gustafson</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0219301/?ref_=tt_cl_i6" ><img height="44" width="32" alt="Tony Denman" title="Tony Denman"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTczMDU2NjU2OF5BMl5BanBnXkFtZTcwODk1NTczOQ@@._V1_SY44_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0219301/?ref_=tt_cl_t6" itemprop='url'> <span class="itemprop" itemprop="name">Tony Denman</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0003306/?ref_=tt_cl_t6" >Scotty Lundegaard</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0396828/?ref_=tt_cl_i7" ><img height="44" width="32" alt="Gary Houston" title="Gary Houston"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTYyNjk0Mzc0M15BMl5BanBnXkFtZTcwMzQyMTkzMQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0396828/?ref_=tt_cl_t7" itemprop='url'> <span class="itemprop" itemprop="name">Gary Houston</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            Irate Customer 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0935041/?ref_=tt_cl_i8" ><img height="44" width="32" alt="Sally Wingert" title="Sally Wingert"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0935041/?ref_=tt_cl_t8" itemprop='url'> <span class="itemprop" itemprop="name">Sally Wingert</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0161329/?ref_=tt_cl_t8" >Irate Customer's Wife</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0777754/?ref_=tt_cl_i9" ><img height="44" width="32" alt="Kurt Schweickhardt" title="Kurt Schweickhardt"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0777754/?ref_=tt_cl_t9" itemprop='url'> <span class="itemprop" itemprop="name">Kurt Schweickhardt</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0219714/?ref_=tt_cl_t9" >Car Salesman</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0463698/?ref_=tt_cl_i10" ><img height="44" width="32" alt="Larissa Kokernot" title="Larissa Kokernot"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0463698/?ref_=tt_cl_t10" itemprop='url'> <span class="itemprop" itemprop="name">Larissa Kokernot</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0161331/?ref_=tt_cl_t10" >Hooker #1</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0676292/?ref_=tt_cl_i11" ><img height="44" width="32" alt="Melissa Peterman" title="Melissa Peterman"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTIxMjUyNTA1MF5BMl5BanBnXkFtZTYwODUwMTA2._V1_SX32_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0676292/?ref_=tt_cl_t11" itemprop='url'> <span class="itemprop" itemprop="name">Melissa Peterman</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0161331/?ref_=tt_cl_t11" >Hooker #2</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0716324/?ref_=tt_cl_i12" ><img height="44" width="32" alt="Steve Reevis" title="Steve Reevis"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0ODU4NjUyMl5BMl5BanBnXkFtZTcwNjMwMjA0NQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0716324/?ref_=tt_cl_t12" itemprop='url'> <span class="itemprop" itemprop="name">Steve Reevis</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0033695/?ref_=tt_cl_t12" >Shep Proudfoot</a> 
+                            (as Steven Reevis)
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0445316/?ref_=tt_cl_i13" ><img height="44" width="32" alt="Warren Keith" title="Warren Keith"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0445316/?ref_=tt_cl_t13" itemprop='url'> <span class="itemprop" itemprop="name">Warren Keith</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0161332/?ref_=tt_cl_t13" >Reilly Diefenbach</a> 
+(voice)                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="even">
+                <td class="primary_photo">
+<a href="/name/nm0249009/?ref_=tt_cl_i14" ><img height="44" width="32" alt="Steve Edelman" title="Steve Edelman"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0249009/?ref_=tt_cl_t14" itemprop='url'> <span class="itemprop" itemprop="name">Steve Edelman</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            Morning Show Host 
+                        
+                    </div>
+                </td>
+            </tr>
+            <tr class="odd">
+                <td class="primary_photo">
+<a href="/name/nm0027437/?ref_=tt_cl_i15" ><img height="44" width="32" alt="Sharon Anderson" title="Sharon Anderson"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V397576332_.png" class="" /></a>                </td>
+                <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0027437/?ref_=tt_cl_t15" itemprop='url'> <span class="itemprop" itemprop="name">Sharon Anderson</span>
+</a>                </td>
+                <td class="ellipsis">
+                    ...
+                </td>
+                <td class="character">
+                    <div>
+            <a href="/character/ch0161333/?ref_=tt_cl_t15" >Morning Show Hostess</a> 
+                        
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="see-more">
+            <a href="fullcredits?ref_=tt_cl_sm#cast" >Full cast and crew</a>&nbsp;&raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_finished');
+    }
+  </script>
+        
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_started');
+    }
+  </script>
+    <div class = "article" id="titleStoryLine">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_stry" rel="login">Edit</a>
+    </span>
+    
+        <h2>Storyline</h2>
+        
+        <div class="inline canwrap" itemprop="description">
+            <p>
+Jerry works in his father-in-law's car dealership and has gotten himself in financial problems. He tries various schemes to come up with money needed for a reason that is never really explained. It has to be assumed that his huge embezzlement of money from the dealership is about to be discovered by father-in-law. When all else falls through, plans he set in motion earlier for two men to kidnap his wife for ransom to be paid by her wealthy father (who doesn't seem to have the time of day for son-in-law). From the moment of the kidnapping, things go wrong and what was supposed to be a non-violent affair turns bloody with more blood added by the minute. Jerry is upset at the bloodshed, which turns loose a pregnant sheriff from Brainerd, MN who is tenacious in attempting to solve the three murders in her jurisdiction.                <em class="nobr">Written by
+<a href="/search/title?plot_author=Anonymous&view=simple&sort=alpha&ref_=tt_stry_pl" >Anonymous</a></em>            </p>
+        </div>
+        
+        <span class="see-more inline"> 
+                <a href="/title/tt0116282/plotsummary?ref_=tt_stry_pl" >Plot Summary</a>
+    <span>|</span>
+        <a href="/title/tt0116282/synopsis?ref_=tt_stry_pl" >Plot Synopsis</a>
+    </span>
+        <hr />
+        <div class="see-more inline canwrap" itemprop="keywords">
+            <h4 class="inline">Plot Keywords:</h4>
+<a href="/keyword/ransom?ref_=tt_stry_kw" > <span class="itemprop" itemprop="keywords">ransom</span></a>
+                    <span>|</span>
+<a href="/keyword/money?ref_=tt_stry_kw" > <span class="itemprop" itemprop="keywords">money</span></a>
+                    <span>|</span>
+<a href="/keyword/blood?ref_=tt_stry_kw" > <span class="itemprop" itemprop="keywords">blood</span></a>
+                    <span>|</span>
+<a href="/keyword/murder?ref_=tt_stry_kw" > <span class="itemprop" itemprop="keywords">murder</span></a>
+                    <span>|</span>
+<a href="/keyword/kidnapping?ref_=tt_stry_kw" > <span class="itemprop" itemprop="keywords">kidnapping</span></a>
+                                            <span>|</span>&nbsp;<nobr><a href="/title/tt0116282/keywords?ref_=tt_stry_kw" >See more</a>&nbsp;&raquo;</nobr>
+        </div>      
+        <hr />
+        <div class="txt-block">
+            <h4 class="inline">Taglines:</h4>
+Small town. Big crime. Dead cold.                <span class="see-more inline">
+<a href="/title/tt0116282/taglines?ref_=tt_stry_tg" > See more</a>&nbsp;&raquo;
+                </span>
+        </div>
+        <hr />
+        <div class="see-more inline canwrap" itemprop="genre">
+            <h4 class="inline">Genres:</h4>
+<a href="/genre/Crime?ref_=tt_stry_gnr" > Crime</a>&nbsp;<span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr" > Drama</a>
+        </div>      
+        
+             <hr/>
+    
+    <div class="txt-block">
+                <h4>Motion Picture Rating
+                    (<a href="/mpaa?ref_=tt_stry_pg" >MPAA</a>)
+                </h4>
+            <span itemprop="contentRating">Rated R for strong violence, language and sexuality</span>
+            <span class="ghost">|</span>
+            <span class="see-more inline">
+<a href="/title/tt0116282/parentalguide?ref_=tt_stry_pg#certification" > See all certifications</a>&nbsp;&raquo;
+            </span>
+    </div>
+    <div class="txt-block">
+        <h4 class="inline">Parents Guide:</h4>
+        <span class="see-more inline" itemprop="audience" itemscope itemtype="http://schema.org/Audience">
+<a href="/title/tt0116282/parentalguide?ref_=tt_stry_pg" itemprop='url'> View content advisory</a>&nbsp;&raquo;
+        </span>
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_finished');
+    }
+  </script>
+            
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_started');
+    }
+  </script>
+    <div class = "article" id="titleDetails">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_dt_dt" rel="login">Edit</a>
+    </span>
+        <h2>Details</h2>
+      <div class="txt-block">
+      <h4 class="inline">Official Sites:</h4>
+        <a rel="nofollow" href="https://www.facebook.com/Fargo" itemprop='url'>Official Facebook</a>
+        
+      <span class="see-more inline">
+      </span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Country:</h4>
+        <a href="/country/us?ref_=tt_dt_dt" itemprop='url'>USA</a>
+              <span class="ghost">|</span>
+        <a href="/country/gb?ref_=tt_dt_dt" itemprop='url'>UK</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Language:</h4>
+        <a href="/language/en?ref_=tt_dt_dt" itemprop='url'>English</a>
+    </div>
+  
+    
+    <div class="txt-block">
+    <h4 class="inline">Release Date:</h4> 5 April 1996 (USA)
+    <span class="see-more inline">
+      <a href="releaseinfo?ref_=tt_dt_dt" itemprop='url'>See more</a>&nbsp;&raquo;
+    </span>
+    </div>
+  
+      <div class="txt-block">
+      <h4 class="inline">Also Known As:</h4> Фарго
+      <span class="see-more inline">
+        <a href="releaseinfo?ref_=tt_dt_dt#akas" itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Filming Locations:</h4> 
+    <a href="/search/title?locations=Chanhassen Dinner Theatre, Chanhassen, Minnesota, USA&ref_=tt_dt_dt" itemprop='url'>Chanhassen Dinner Theatre, Chanhassen, Minnesota, USA</a>
+      <span class="see-more inline">
+        <a href="locations?ref_=tt_dt_dt" itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+    </div>
+  
+    <hr /> 
+    <h3>Box Office</h3>
+  
+      <div class="txt-block">
+      <h4 class="inline">Budget:</h4>        $7,000,000        
+
+      <span class="attribute">(estimated)</span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Opening Weekend:</h4>         $137,301        
+
+      (USA)
+      <span class="attribute">(19 July 1996)</span>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Gross:</h4>        $24,547,547        
+
+      <span class="attribute">(USA)</span>
+      <span class="attribute">(4 April 1997)</span>
+    </div>
+  
+  <span class="see-more inline">
+    <a href="business?ref_=tt_dt_bus" itemprop='url'>See more</a>&nbsp;&raquo;
+  </span>  
+  <hr /> 
+  <h3>Company Credits</h3>
+    <div class="txt-block">
+    <h4 class="inline">Production Co:</h4>
+        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0106129?ref_=tt_dt_co" itemprop='url'><span class="itemprop" itemprop="name">PolyGram Filmed Entertainment</span></a></span>,        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0057311?ref_=tt_dt_co" itemprop='url'><span class="itemprop" itemprop="name">Working Title Films</span></a></span>      <span class="see-more inline">
+        <a href="companycredits?ref_=tt_dt_co" itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+    </div>
+  <div class="txt-block"> 
+  Show detailed
+<a
+onclick="(new Image()).src='/rg/tt_details_contact/prosystem/images/b.gif?link=/r/tt_details_contact/title/tt0116282/companycredits';"
+href="/r/tt_details_contact/title/tt0116282/companycredits"
+itemprop='url'>company contact information</a>
+  on 
+  <a
+onclick="(new Image()).src='/rg/tt_details_contact/prosystem/images/b.gif?link=/r/tt_details_contact/#';"
+href="/r/tt_details_contact/#"
+itemprop='url'>IMDbPro</a>&nbsp;&raquo;
+  </div>
+  
+
+  <hr />
+  <h3>Technical Specs</h3>
+  
+    <div class="txt-block">
+      <h4 class="inline">Runtime:</h4> 
+        <time itemprop="duration" datetime="PT98M">98 min</time>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Sound Mix:</h4>
+        <a href="/search/title?sound_mixes=dolby_digital&ref_=tt_dt_spec" itemprop='url'>Dolby Digital</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Color:</h4>
+        <a href="/search/title?colors=color&ref_=tt_dt_spec" itemprop='url'>Color</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Aspect Ratio:</h4> 1.85 : 1
+    </div>
+  
+  See <a href="technical?ref_=tt_dt_spec" itemprop='url'>full technical specs</a>&nbsp;&raquo;
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_finished');
+    }
+  </script>
+            
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_started');
+    }
+  </script>
+<div id="titleDidYouKnow" class="article">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_trv_trv" rel="login">Edit</a>
+    </span>
+    <h2>Did You Know?</h2>
+    <div id="trivia" class="txt-block">
+        <h4>Trivia</h4>
+
+
+A Danish band called "Diefenbach" has taken their name from the character Riley Diefenbach in this movie.        <a href="trivia?ref_=tt_trv_trv" class="nobr" >See more</a>  &raquo;
+    </div>
+            <hr />
+     <div id="goofs"  class="txt-block">
+        <h4>Goofs</h4>
+The poster in Scotty Lundegaard's room spells accordion "accordian."        <a href="trivia?tab=gf&ref_=tt_trv_gf" class="nobr" >See more</a>  &raquo;
+    </div>   
+            <hr />
+    <div id="quotes" class="text-block">
+        <h4>Quotes</h4>
+[<span class="fine">first lines</span>]
+<br /><a href="/name/nm0000513/?ref_=tt_trv_qu" ><span class="character">Jerry Lundegaard</span></a>:
+I'm, uh, Jerry Lundegaard.
+<br /><a href="/name/nm0000114/?ref_=tt_trv_qu" ><span class="character">Carl Showalter</span></a>:
+You're Jerry Lundegaard?
+<br /><a href="/name/nm0000513/?ref_=tt_trv_qu" ><span class="character">Jerry Lundegaard</span></a>:
+Ya. Shep Proudfoot said...
+<br /><a href="/name/nm0000114/?ref_=tt_trv_qu" ><span class="character">Carl Showalter</span></a>:
+Shep said you'd be here at 7:30. What gives, man?
+<br /><a href="/name/nm0000513/?ref_=tt_trv_qu" ><span class="character">Jerry Lundegaard</span></a>:
+Shep said 8:30.
+<br /><a href="/name/nm0000114/?ref_=tt_trv_qu" ><span class="character">Carl Showalter</span></a>:
+We've been sitting here an hour. He's
+<br />[<span class="fine">motioning to Gaer</span>]
+<br /><a href="/name/nm0000114/?ref_=tt_trv_qu" ><span class="character">Carl Showalter</span></a>:
+peed three times already.
+<br /><a href="/name/nm0000513/?ref_=tt_trv_qu" ><span class="character">Jerry Lundegaard</span></a>:
+I'm sure sorry. Shep told me 8:30. It was a mix-up, I guess.
+<br />                
+        <a href="trivia?tab=qt&ref_=tt_trv_qu" class="nobr" >See more</a> &raquo;
+    </div>
+            <hr />
+     <div id="crazyCredits"  class="txt-block">
+        <h4>Crazy Credits</h4>
+A symbol similar to the Artist Formerly Known as Prince is in the credits as "victim in field", but it is not him, it is J. Todd Anderson, the storyboard artist.        <a href="trivia?tab=cz&ref_=tt_trv_cc" class="nobr" >See more</a>  &raquo;
+    </div>   
+            <hr />
+    <div id="connections" class="text-block">
+        <h4>Connections</h4>
+        References <a href="/title/tt0097940/?ref_=tt_trv_cnn">Mystery Train</a>&nbsp;(1989)
+
+
+        <a href="trivia?tab=mc&ref_=tt_trv_cnn" class="nobr" >See more</a> &raquo;
+    </div>
+            <hr />
+    <div id="soundtracks" class="text-block">
+        <h4>Soundtracks</h4>
+"Big City"<br />
+Written by <a href="/name/nm0353588/?ref_=tt_trv_snd">Merle Haggard</a> and Dean Holloway<br />
+Shade Tree Music, Inc.<br />
+Performed by <a href="/name/nm0353588/?ref_=tt_trv_snd">Merle Haggard</a><br />
+Courtesy of Epic Records<br />
+By Arrangement with Sony Music Licensing<br />        <a href="soundtrack?ref_=tt_trv_snd" class="nobr" >See more</a> &raquo;
+    </div>
+</div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_finished');
+    }
+  </script>
+    </div>
+</div> 
+
+<div id="content-1" class="redesign clear">
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_started');
+    }
+  </script>
+    <div class="article" id="titleFAQ">
+        <h2>Frequently Asked Questions</h2>
+        
+            <div class="faq" >
+                    <div class="odd">
+                    <b>Q:</b>
+<a href="/title/tt0116282/faq?ref_=tt_faq_1#.2.1.4" > How much sex, violence, and profanity are in this movie?</a>
+                    </div>
+                    <div class="even">
+                    <b>Q:</b>
+<a href="/title/tt0116282/faq?ref_=tt_faq_2#.2.1.9" > Why did Showalter argue with Grimsrud about paying for half of the car?</a>
+                    </div>
+                    <div class="odd">
+                    <b>Q:</b>
+<a href="/title/tt0116282/faq?ref_=tt_faq_3#.2.1.10" > How did Grimsrud kill Jerry's wife?</a>
+                    </div>
+            </div>
+        
+            <span class="see-more inline" >        
+                <a href="/title/tt0116282/faq?ref_=tt_faq_sm" class="nobr" >See more</a>
+                <span class="spoilers">(Spoiler Alert!)</span></span>&nbsp;&raquo;
+        </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_finished');
+    }
+  </script>
+    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_started');
+    }
+  </script>
+    <div class="article" id="titleUserReviewsTeaser">
+        <h2>User Reviews</h2>
+        <div class="user-comments">
+                    <div class="tinystarbar" title="10/10">
+                        <div style="width: 100px;">&nbsp;</div>
+                    </div>
+                <span itemprop="review" itemscope itemtype="http://schema.org/Review">  
+                    <strong itemprop="name">The Best Effort From A Number Of  People</strong>
+                    <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+                        <meta itemprop="worstRating" content = "1" />
+                        <meta itemprop="ratingValue" content="10" />
+                        <meta itemprop="bestRating" content="10" />
+                    </span>
+                    <div class="comment-meta">
+                        24 November 2006 | by <a href="/user/ur4445210/comments?ref_=tt_urv" ><span itemprop="author">ccthemovieman-1</span></a>
+                        <meta itemprop="datePublished" content="2006-11-24" />
+                              (United States)
+                        &ndash; <a href="/user/ur4445210/comments?ref_=tt_urv" >See all my reviews</a>
+                    </div>
+                    <div>
+                        <p itemprop="reviewBody">I didn&#39;t see this in the theater but saw it the first week it was out for rental, and have enjoyed it ever since. In fact, I probably enjoy this more each time I view it. It&#39;s a sick movie, though, make no mistake about that. However, it holds a strange fascination, probably because of the odd characters.<br /><br />About the story: first, it is NOT a true story as indicated in the movie. That&#39;s a lie. It&#39;s a fictional kidnapping-turned into murder story with a few bloody scenes, lots of profanity (most of it by Steve Buscemi) and a comedy. Yup, this is pure &quot;black comedy.&quot; It&#39;s dark humor mixed in with a parody about the way the Scandanavian people in the upper Midwest supposedly speak.<br /><br />Both William H. Macy and Frances McDormand have some wonderful facial expressions along with their accents. Those two and Buscemi are the lead characters and all three &quot;are a trip.&quot; Macy is hilarious; the best character in here, in my opinion. The more I watch this film, the funnier he gets. It&#39;s also the best role, I assume, ever for McDormand who was never a star before - or since - this movie. Her character in here, &quot;Marge Gunderson,&quot; elevates this movie from just another modern-day sick crime movie, to an original. It&#39;s nice to see a wonderful husband-wife relationship, too, as is shown here with her and husband &quot;Norm&quot; (John Lynch).<br /><br />You have this clean, old-fashioned lady cop (McDormand), a middle-of-the-road bungling car salesman (Macy) and two extreme low-life killers in &quot;Carl Showalter&quot; (Buscemi) and &quot;Gaear Grimsrud&quot; (Peter Stormare) all combining to make this story a mixture not only of people but genres. Other minor characters are strange, too, led by one of Marge&#39;s old high school acquaintances &quot;Mike Yanagita&quot; (Steve Park). Add to that some equally-bizarre music (slow violins) and you have this unusual story that brings out the morbid fascination in us viewers.<br /><br />So, I guess what I am saying is this movie truly is an original, the best film the Coen Brothers have ever made and maybe the rest roles ever for the three main actors, McDormand, Macy and Buscemi.</p>
+                    </div>
+                </span>
+                <hr />
+                <div class="yn" id="ynd_1528636">
+                    38 of 54 people found this review helpful.&nbsp;
+                    Was this review helpful to you?
+                    <button class="btn small" value="Yes" name="ynb_1528636_yes" onclick="CS.TMD.user_review_vote(1528636, 'tt0116282', 'yes');" >Yes</button>
+                    <button class="btn small" value="No" name="ynb_1528636_no" onclick="CS.TMD.user_review_vote(1528636, 'tt0116282', 'no');" >No</button>
+                </div>
+            <div class="see-more">
+                
+                <a href="/title/tt0116282/reviews-enter?ref_=tt_urv" rel="login">Review this title</a>
+                <span>|</span>
+                    <a href="/title/tt0116282/reviews?ref_=tt_urv" >See all 727 user reviews</a>&nbsp;&raquo;
+            </div>
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMessageBoardsWidget_started');
+    }
+  </script>
+<div class="article" id="titleBoardsTeaser">
+    <h2>Message Boards</h2>
+    
+        Recent Posts
+        <table class="boards">
+    <tr class="odd">
+        <td>
+            <a href="/title/tt0116282/board/nest/207624498?ref_=tt_bd_1" >Norm a worthless slob</a>
+        </td>
+        <td>
+            <a href="/user/ur28916781/boards/profile?ref_=tt_bd_1" >usfnaa</a>
+        </td>
+    </tr>
+    <tr class="even">
+        <td>
+            <a href="/title/tt0116282/board/nest/210740315?ref_=tt_bd_2" >Parking Lot Scene</a>
+        </td>
+        <td>
+            <a href="/user/ur24828151/boards/profile?ref_=tt_bd_2" >blufftoni</a>
+        </td>
+    </tr>
+    <tr class="odd">
+        <td>
+            <a href="/title/tt0116282/board/nest/196514963?ref_=tt_bd_3" >Post Modernism in Fargo</a>
+        </td>
+        <td>
+            <a href="/user/ur22369405/boards/profile?ref_=tt_bd_3" >ryansinadifferentworld</a>
+        </td>
+    </tr>
+    <tr class="even">
+        <td>
+            <a href="/title/tt0116282/board/nest/200588856?ref_=tt_bd_4" >How did the GMAC loan really work?</a>
+        </td>
+        <td>
+            <a href="/user/ur12588255/boards/profile?ref_=tt_bd_4" >Onyx12</a>
+        </td>
+    </tr>
+    <tr class="odd">
+        <td>
+            <a href="/title/tt0116282/board/nest/193323081?ref_=tt_bd_5" >What Happens to the Body?</a>
+        </td>
+        <td>
+            <a href="/user/ur0425887/boards/profile?ref_=tt_bd_5" >Wideshut</a>
+        </td>
+    </tr>
+    <tr class="even">
+        <td>
+            <a href="/title/tt0116282/board/nest/187411858?ref_=tt_bd_6" >I'm so, so sorry to say this...</a>
+        </td>
+        <td>
+            <a href="/user/ur18537764/boards/profile?ref_=tt_bd_6" >clichekiller12</a>
+        </td>
+    </tr>
+        </table>
+    
+    <div class="see-more">
+        <a href="/title/tt0116282/board/?ref_=tt_bd_sm" >Discuss Fargo (1996)</a> on the IMDb message boards &raquo;
+    </div>
+</div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMessageBoardsWidget_finished');
+    }
+  </script>
+    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_started');
+    }
+  </script>
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=tt_cn" >Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=tt_cn" >Contributor Zone</a>&nbsp;&raquo;</div>
+    <h2>Contribute to This Page</h2>
+    
+    
+        <div class="button-box">
+            <form method="post" action="/updates?ref_=tt_cn">
+                <input type="hidden" name="auto" value="legacy/title/tt0116282/">
+                  <button class="btn primary large" rel="login" type="submit">Edit page</button>
+            </form>
+        </div>
+    
+
+        <div class="button-box">
+<a href="/title/tt0116282/reviews-enter?ref_=tt_cn" class="btn large" rel="login">Write review</a>          
+        </div>
+    
+    
+        <div class="form-box">
+            <form method="post" action="/character/create?ref_=tt_cn">
+                <input type="hidden" value="tt0116282" name="title">
+                <div class="form-txt">Create a character page for:</div>
+                <select id="character_select" name="name" data-tconst="tt0116282">
+                        <option value="Irate Customer">Irate Customer</option>
+                        <option value="Morning Show Host">Morning Show Host</option>
+                     <option disabled="disabled">-----------</option>
+                     <option value="...">more...</option>
+                </select>
+                <button class="btn small">Create &raquo;</button>
+                <a href="/help/show_leaf?createchar&ref_=tt_cn" class="btn small" >?</a>
+            </form>
+        </div>
+    
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_finished');
+    }
+  </script>
+  
+</div>
+
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+    <div id="rvi-div">
+        <div class="recently-viewed">&nbsp;</div>
+        <br class="clear">
+        <hr width="100%" size="1">
+    </div>
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/home/footer/images/b.gif?link=/';"
+href="/"
+>Home</a>
+        | <a
+onclick="(new Image()).src='/rg/search/footer/images/b.gif?link=/search';"
+href="/search"
+>Search</a>
+        | <a
+onclick="(new Image()).src='/rg/siteindex/footer/images/b.gif?link=/a2z';"
+href="/a2z"
+>Site Index</a>
+        | <a
+onclick="(new Image()).src='/rg/intheaters/footer/images/b.gif?link=/movies-in-theaters/';"
+href="/movies-in-theaters/"
+>In Theaters</a>
+        | <a
+onclick="(new Image()).src='/rg/comingsoon/footer/images/b.gif?link=/movies-coming-soon/';"
+href="/movies-coming-soon/"
+>Coming Soon</a>
+        | <a
+onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=/chart/';"
+href="/chart/"
+>Top Movies</a>
+        | <a
+onclick="(new Image()).src='/rg/watchlist/footer/images/b.gif?link=/list/watchlist';"
+href="/list/watchlist"
+>Watchlist</a>
+        | <a
+onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=/chart/top';"
+href="/chart/top"
+>Top 250</a>
+        | <a
+onclick="(new Image()).src='/rg/tv/footer/images/b.gif?link=/sections/tv/';"
+href="/sections/tv/"
+>TV</a>
+        | <a
+onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=/news/';"
+href="/news/"
+>News</a>
+        | <a
+onclick="(new Image()).src='/rg/video/footer/images/b.gif?link=/features/video/';"
+href="/features/video/"
+>Video</a>
+        | <a
+onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=/boards/';"
+href="/boards/"
+>Message Boards</a>
+        | <a
+onclick="(new Image()).src='/rg/pressroom/footer/images/b.gif?link=/pressroom/';"
+href="/pressroom/"
+>Press Room</a>
+        <br>
+
+        <a
+onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
+href="https://secure.imdb.com/register-imdb/form-v2"
+>Register</a>
+        | <a
+onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
+href="/help/show_article?rssavailable"
+class="navbarSprite"
+id="footer_rss_image"
+></a>
+          <a
+onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
+href="/help/show_article?rssavailable"
+>RSS</a>
+        | <a
+onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=/advertising/';"
+href="/advertising/"
+>Advertising</a>
+        | <a
+onclick="(new Image()).src='/rg/helpdesk/footer/images/b.gif?link=/helpdesk/contact';"
+href="/helpdesk/contact"
+>Contact Us</a>
+        | <a
+onclick="(new Image()).src='/rg/jobs/footer/images/b.gif?link=/jobs';"
+href="/jobs"
+>Jobs</a>
+        | <a
+onclick="(new Image()).src='/rg/IMDbFooter/prosystem/images/b.gif?link=https://secure.imdb.com/r/IMDbFooter/register/subscribe?c=a394d4442664f6f6475627';"
+href="https://secure.imdb.com/r/IMDbFooter/register/subscribe?c=a394d4442664f6f6475627"
+>IMDbPro</a>
+        | <a
+onclick="(new Image()).src='/rg/BOXOFFICEMOJO/FOOTER/images/b.gif?link=http://www.boxofficemojo.com/';"
+href="http://www.boxofficemojo.com/"
+>Box Office Mojo</a>
+        | <a
+onclick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com/';"
+href="http://www.withoutabox.com/"
+>Withoutabox</a>
+        | <a
+onclick="(new Image()).src='/rg/LOVEFILM/FOOTER/images/b.gif?link=http://www.lovefilm.com/browse/film/watch-online/';"
+href="http://www.lovefilm.com/browse/film/watch-online/"
+>LOVEFiLM</a>
+        <br /><br />
+        IMDb Mobile:
+          <a
+onclick="(new Image()).src='/rg/mobile-ios/footer/images/b.gif?link=/apps/ios/';"
+href="/apps/ios/"
+>iPhone/iPad</a>
+        | <a
+onclick="(new Image()).src='/rg/mobile-android/footer/images/b.gif?link=/android';"
+href="/android"
+>Android</a>
+        | <a
+onclick="(new Image()).src='/rg/mobile-web/footer/images/b.gif?link=http://m.imdb.com';"
+href="http://m.imdb.com"
+>Mobile site</a>
+        | <a
+onclick="(new Image()).src='/rg/mobile-win7/footer/images/b.gif?link=/windowsphone';"
+href="/windowsphone"
+>Windows Phone 7</a>
+        | IMDb Social:
+          <a
+onclick="(new Image()).src='/rg/facebook/footer/images/b.gif?link=http://www.facebook.com/imdb';"
+href="http://www.facebook.com/imdb"
+>Facebook</a>
+        | <a
+onclick="(new Image()).src='/rg/twitter/footer/images/b.gif?link=http://twitter.com/imdb';"
+href="http://twitter.com/imdb"
+>Twitter</a>
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2013 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Conditions of Use</a> | <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/privacy';"
+href="/privacy"
+>Privacy Policy</a> | <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=//www.amazon.com/InterestBasedAds';"
+href="//www.amazon.com/InterestBasedAds"
+>Interest-Based Ads</a>
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+  <table class="footer" id="amazon-affiliates" width="100%">
+    <tr>
+      <td colspan="10">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+      <td class="amazon-affiliate-site-first">
+        <a class="amazon-affiliate-site-link" href="http://www.amazon.com/b?ie=UTF8&node=2858778011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+        </a>
+      </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20 >
+          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21 >
+          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21 >
+          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21 >
+          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
+          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://wireless.amazon.com >
+          <span class="amazon-affiliate-site-name">Amazon Wireless</span><br>
+          <span class="amazon-affiliate-site-desc">Cellphones &<br>Wireless Plans</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.junglee.com/ >
+          <span class="amazon-affiliate-site-name">Junglee</span><br>
+          <span class="amazon-affiliate-site-desc">India Online<br>Shopping</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.dpreview.com >
+          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+        </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+        <a class="amazon-affiliate-site-link" href=http://www.audible.com >
+          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+        </a>
+    </td>
+    </tr>
+  </table>
+  </div>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        var seg = -1;
+        _gaq.push(['_setAccount', 'UA-3916519-1']);
+        _gaq.push(['_setDomainName', '.imdb.com']); 
+        _gaq.push(['_setSampleRate', '10']); 
+        _gaq.push(['_setCustomVar', 2, 'Falkor', 'false']); 
+        _gaq.push(['_trackPageview']); // must come last
+  
+       (function() {
+           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+           ga.src = 'http://www.google-analytics.com/ga.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
+
+    </script>
+	
+	<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="dfp_slot">
+<script type="text/javascript">
+ad_utils.register_ad('bottom_ad');
+</script>
+<iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,2x1;p=b;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=4;sz=728x90,2x1;p=b;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=4;sz=728x90,2x1;p=b;g=cr;g=dr;tt=f;m=R;mh=R;ml=R;coo=us;coo=gb;b=t250;fv=1;id=tt0116282;ab=f;bpx=1;ord=262103277415?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="bottom_ad_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('bottom_ad');</script>
+<!-- End BOTTOM_AD -->
+	
+            </div>
+        </div>
+    
+<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/imdb/js/collections/title-1919346519._V371022406_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt0116282/");
+});
+</script>
+<!-- begin ads footer -->
+    <!-- Begin SIS code --> 
+    <iframe id="sis_pixel" style="display:none"></iframe>
+    <iframe id="sis_pixel_3" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+    
+    <script>
+    setTimeout(function(){
+      try{
+        //sis2.0 pixel
+        var url = 'http://sis.amazon.com/iu?',
+            params = [
+              "dmnId=imdb.com",
+              "dId=",
+              "tId=000-0000000-0000000",
+              "pId=tt0116282",
+              "r=1",
+              "rP=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0116282%2F" 
+            ];
+        (document.getElementById('sis_pixel')).src = url + params.join('&');
+    
+        //sis3.0 pixel
+        var url_sis3 = 'http://s.amazon-adsystem.com/iu3?',
+            params_sis3 = [
+              "d=imdb.com",
+              "a1=",
+              "a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98",
+              "pId=tt0116282",
+              "r=1",
+              "rP=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0116282%2F",
+              "ex-hargs=v=1.0;c=IMDB;p=tt0116282;t=imdb_title_view;",
+              "encoding=server",
+              "cb=" + parseInt(Math.random()*99999999)  
+            ];
+        (document.getElementById('sis_pixel_3')).src = url_sis3 + params_sis3.join('&');
+      }
+      catch(e){
+        consoleLog('Pixel failure ' + e.toString(),'sis');
+      }
+    }, 5);
+    
+    </script>
+    <!-- End SIS code -->
+
+<!-- begin springroll comscore beacon -->
+<script type="text/javascript" src='http://z-ecx.images-amazon.com/images/G/01/imdbads/js/beacon-58460835._V397576206_.js'></script>
+<script type="text/javascript">
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://www.imdb.com/title/tt0116282/",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0116282%2F&c5=c6=&15=&cj=1"/>
+</noscript>
+<!-- end springroll comscore beacon -->
+
+<script type="text/javascript">
+  (function() {
+    var foreseescript = document.createElement("script");
+    foreseescript.setAttribute("defer", true);
+    foreseescript.setAttribute("src", "http://z-ecx.images-amazon.com/images/G/01/imdbads/foresee/foresee-trigger-4277353327._V397576255_.js");
+    document.getElementsByTagName("head")[0].appendChild(foreseescript);
+  })();
+</script>
+
+<script>(function(g){window.jQuery && jQuery(function(){g.document_is_ready()});g.monitoring.stop_timing('page_load','',true);g.monitoring.all_events_started();})(generic);</script>
+<!-- end ads footer -->
+
+<div id="servertime" time="303"/>
+
+<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/imdb/js/collections/csmBodyClose-3613416824._V371691743_.js"></script>
+
+    </body>
+</html>
+

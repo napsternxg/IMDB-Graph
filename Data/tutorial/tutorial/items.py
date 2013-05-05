@@ -10,3 +10,11 @@ class TutorialItem(Item):
     # name = Field()
 	name = Field()
 	link = Field()
+
+
+class MovieItem(Item):
+    # define the fields for your item here like:
+    # name = Field()
+	movie = Field()
+	cast = Field()
+	rank = Field()
